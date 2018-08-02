@@ -1,0 +1,7 @@
+div.container  div.row div {
+    background-color: yellow;
+    border: 1px solid #000;
+}
+div.my-row{
+    margin-bottom: 20px;
+}
